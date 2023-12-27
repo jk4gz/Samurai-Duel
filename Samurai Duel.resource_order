@@ -22,8 +22,11 @@
   "ResourceOrderSettings": [
     {"name":"ready_up","order":2,"path":"rooms/ready_up/ready_up.yy",},
     {"name":"ready_up_p1","order":1,"path":"objects/ready_up_p1/ready_up_p1.yy",},
+    {"name":"p2_sprite","order":2,"path":"objects/p2_sprite/p2_sprite.yy",},
     {"name":"ready_up_p2","order":2,"path":"objects/ready_up_p2/ready_up_p2.yy",},
     {"name":"p2_ready","order":1,"path":"objects/p2_ready/p2_ready.yy",},
+    {"name":"outcome_text","order":3,"path":"objects/outcome_text/outcome_text.yy",},
+    {"name":"p1_sprite","order":1,"path":"objects/p1_sprite/p1_sprite.yy",},
     {"name":"menu_font_obj","order":1,"path":"objects/menu_font_obj/menu_font_obj.yy",},
     {"name":"ready_up_instructions","order":3,"path":"objects/ready_up_instructions/ready_up_instructions.yy",},
   ],

@@ -35,7 +35,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"ready_up","path":"rooms/ready_up/ready_up.yy",},},
@@ -44,8 +44,11 @@
     {"id":{"name":"p1_ready","path":"objects/p1_ready/p1_ready.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"ready_up_p1","path":"objects/ready_up_p1/ready_up_p1.yy",},},
+    {"id":{"name":"p2_sprite","path":"objects/p2_sprite/p2_sprite.yy",},},
     {"id":{"name":"ready_up_p2","path":"objects/ready_up_p2/ready_up_p2.yy",},},
     {"id":{"name":"p2_ready","path":"objects/p2_ready/p2_ready.yy",},},
+    {"id":{"name":"outcome_text","path":"objects/outcome_text/outcome_text.yy",},},
+    {"id":{"name":"p1_sprite","path":"objects/p1_sprite/p1_sprite.yy",},},
     {"id":{"name":"menu_font_obj","path":"objects/menu_font_obj/menu_font_obj.yy",},},
     {"id":{"name":"ready_up_instructions","path":"objects/ready_up_instructions/ready_up_instructions.yy",},},
     {"id":{"name":"game_scene","path":"rooms/game_scene/game_scene.yy",},},

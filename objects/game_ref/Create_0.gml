@@ -4,3 +4,4 @@
 //countdown = random_range(540, 1800);
 countdown = 540;
 in_game_timer = 0;
+reaction_flag = false;
