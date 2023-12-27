@@ -2,12 +2,16 @@
 // You can write your code in this editor
 
 draw_set_color(c_black);
-if (game_ref.in_game_timer >= game_ref.countdown and p1_pressed)
+if (game_ref.in_game_timer >= game_ref.countdown)
 {
-	draw_text(x, y, "you dadgum didit")
+	if (array_length(player_input_order) > 0)
+	{
+		draw_text(x, y, player_input_order[0] + " dadgum didit")
+	}
+	
 }
 
-else if (p1_pressed or p2_pressed)
+else if (array_length(player_input_order) > 0)
 {
 	draw_text(x, y, "you done messed up")
 }

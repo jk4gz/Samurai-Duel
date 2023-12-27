@@ -4,6 +4,6 @@
 if (keyboard_check_pressed(ord("L")))
 {
 	color = c_green;
-	outcome_text.p2_pressed = true;
+	array_push(outcome_text.player_input_order, "P2");
 }
 
